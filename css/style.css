@@ -225,7 +225,7 @@ first div in the grid  and place it in the grid. */
   /* Step 9: Write the selector/rule property to style the nav element */
 nav{ 
 text-align: right;
-padding: 30px 0;
+padding: 30px 0;  
 }
  
   /* Step 10: Write the selector/rule property to update the .container class */
@@ -252,7 +252,7 @@ padding: 30px 0;
   overflow: auto;
 }
 
-#main{
+/*#main{
   background-color: #737373;
-}
+}*/
 }
